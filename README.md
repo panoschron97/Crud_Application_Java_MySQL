@@ -1,1 +1,1 @@
-# Crud_Application_Java_MySQL_BlueJ
+# Crud_Application_Java_MySQL_NoGUI_BlueJ
