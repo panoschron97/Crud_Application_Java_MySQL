@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
     *   Import the database schema from the `Application.sql` file (if provided):
 
         ```bash
-        mysql -u root -p crud_db < Application.sql
+        mysql -u root -p Application < Application.sql
         ```
 
 3.  **Configure the Application:**
