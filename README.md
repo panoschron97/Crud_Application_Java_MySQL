@@ -86,15 +86,3 @@ Examples (hypothetical, based on likely functionality):
 *   **Read Employee Data:**  You could search for an employee by ID or name.
 *   **Update Department Information:**  Modify a department's name or location.
 *   **Delete an Employee:** Remove an employee record from the database.
-
-## Configuration Options
-
-The primary configuration options are related to the database connection.  These are typically found in the `Application.java` file or a separate configuration file:
-
-*   **Database URL:**  `jdbc:mysql://hostname:port/database_name`
-*   **Database Username:**  The MySQL username for accessing the database.
-*   **Database Password:**  The password for the MySQL user.
-
-## Acknowledgments
-
-*   This project utilizes the MySQL Connector/J library for database connectivity.
