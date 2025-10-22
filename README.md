@@ -96,17 +96,6 @@ The primary configuration options are related to the database connection.  These
 *   **Database Username:**  The MySQL username for accessing the database.
 *   **Database Password:**  The password for the MySQL user.
 
-## Contributing Guidelines
-
-We welcome contributions!  To contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with clear, descriptive messages.
-4.  Submit a pull request.
-
-Please ensure your code adheres to the project's coding style and includes appropriate tests.
-
 ## License Information
 
 This project does not currently have a license specified. All rights are reserved by the owner. Please contact the owner for licensing information.
