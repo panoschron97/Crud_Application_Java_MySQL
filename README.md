@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
     *   Import the database schema from the `Application.sql` file (if provided):
 
         ```bash
-        mysql -u root -p Application < Application.sql
+        mysql -u your_mysql_user -p Application < Application.sql
         ```
 
 3.  **Configure the Application:**
@@ -54,11 +54,11 @@ Before you begin, ensure you have the following installed:
 
         ```java
         String url = "jdbc:mysql://localhost:3306/Application";
-        String user = "root";
-        String password = "your_password";
+        String user = "your_mysql_user";
+        String password = "your_mysql_password";
         ```
 
-    *   Replace `"your_password"` with the actual password for your MySQL user.
+    *   Replace `"your_mysql_password"` with the actual password for your MySQL user.
 
 4.  **Compile the Java Code:**
 
