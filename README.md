@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
     *   Log in to your MySQL server using the MySQL command-line tool or a GUI client (e.g., MySQL Workbench).
 
         ```bash
-        mysql -u root -p
+        mysql -u your_mysql_user -p
         ```
 
     *   Create a new database (e.g., `Application`):
