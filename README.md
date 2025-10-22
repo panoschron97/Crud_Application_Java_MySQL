@@ -1,4 +1,4 @@
-# Crud_Application_Java_MySQL
+# A Crud application in java with MySQL
 
 A CRUD (Create, Read, Update, Delete) application implemented using Java and MySQL.
 
