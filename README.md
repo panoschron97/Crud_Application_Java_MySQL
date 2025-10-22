@@ -96,10 +96,6 @@ The primary configuration options are related to the database connection.  These
 *   **Database Username:**  The MySQL username for accessing the database.
 *   **Database Password:**  The password for the MySQL user.
 
-## License Information
-
-This project does not currently have a license specified. All rights are reserved by the owner. Please contact the owner for licensing information.
-
 ## Acknowledgments
 
 *   This project utilizes the MySQL Connector/J library for database connectivity.
