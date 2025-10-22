@@ -78,7 +78,7 @@ Before you begin, ensure you have the following installed:
 
 ## Usage Examples
 
-The application provides a command-line interface (or potentially a GUI, depending on the implementation) for performing CRUD operations on Companies, Departments, and Employees. Follow the on-screen instructions after running `java Application` to interact with the data.
+The application provides a command-line interface (or potentially a GUI, depending on the implementation) for performing CRUD operations on Companies, Departments and Employees. Follow the on-screen instructions after running `java Application` to interact with the data.
 
 Examples (hypothetical, based on likely functionality):
 
