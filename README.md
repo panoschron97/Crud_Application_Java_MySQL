@@ -14,10 +14,9 @@ A CRUD (Create, Read, Update, Delete) application implemented using Java and MyS
 
 Before you begin, ensure you have the following installed:
 
-*   **Java Development Kit (JDK):**  Version 8 or higher.  Download from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) or [OpenJDK](https://openjdk.java.net/).
 *   **MySQL Database:**  Install MySQL Server. Download from [MySQL](https://www.mysql.com/downloads/).
 *   **MySQL Connector/J:** JDBC driver for connecting Java applications to MySQL. Download from [MySQL](https://dev.mysql.com/downloads/connector/j/).  Add the .jar file to your project's classpath.
-*   **IDE (Optional):**  An Integrated Development Environment (IDE) such as BlueJ, IntelliJ IDEA, Eclipse, or NetBeans can be helpful for development.
+*   **IDE:**  An Integrated Development Environment (IDE) such as BlueJ.
 
 ## Installation & Setup Instructions
 
