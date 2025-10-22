@@ -65,7 +65,7 @@ Before you begin, ensure you have the following installed:
     *   Using your IDE or the command line, compile the Java files:
 
         ```bash
-        javac *.java
+        javac Application.java
         ```
 
 5.  **Run the Application:**
