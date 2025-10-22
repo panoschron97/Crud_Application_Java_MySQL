@@ -36,11 +36,11 @@ Before you begin, ensure you have the following installed:
         mysql -u root -p
         ```
 
-    *   Create a new database (e.g., `crud_db`):
+    *   Create a new database (e.g., `Application`):
 
         ```sql
-        CREATE DATABASE crud_db;
-        USE crud_db;
+        CREATE DATABASE Application;
+        USE Application;
         ```
 
     *   Import the database schema from the `Application.sql` file (if provided):
@@ -54,7 +54,7 @@ Before you begin, ensure you have the following installed:
     *   Open the `Application.java` file (or relevant configuration file) and update the database connection details (URL, username, password) to match your MySQL setup.  For example:
 
         ```java
-        String url = "jdbc:mysql://localhost:3306/crud_db";
+        String url = "jdbc:mysql://localhost:3306/Application";
         String user = "root";
         String password = "your_password";
         ```
