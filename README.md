@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
 
 3.  **Configure the Application:**
 
-    *   Open the `Application.java` file (or relevant configuration file) and update the database connection details (URL, username, password) to match your MySQL setup.  For example:
+    *   Open the `Variables.java` file (or relevant configuration file) and update the database connection details (URL, username, password) to match your MySQL setup.  For example:
 
         ```java
         String url = "jdbc:mysql://localhost:3306/Application";
